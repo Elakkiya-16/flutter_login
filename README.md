@@ -12,21 +12,4 @@ main.dart: The entry point of the app, sets up the LoginScreen as the default pa
 login.dart: Contains the LoginScreen UI and logic to collect and process user inputs.
 service.dart: Handles the API call for login authentication.
 
-How to Run the Project
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-repository/login_app.git
-cd login_app
-Install Dependencies: Make sure you have Flutter installed. Run the following command to get the necessary packages:
-
-bash
-Copy code
-flutter pub get
-Run the Application: To run the app on a connected device or emulator, use:
-
-bash
-Copy code
-flutter run
-API Details
